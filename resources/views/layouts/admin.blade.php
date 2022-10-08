@@ -123,7 +123,7 @@
                                         <!-- <lord-icon src="https://cdn.lordicon.com/igpbsrza.json" trigger="hover" target="#dashboard" state="hover-2" colors="primary:#ffffff" style="width:45px;height:45px">
                                         </lord-icon> -->
                                     </span>
-                                    <span class="menu-text">Dashboard</span>
+                                    <span class="menu-text">Dashboardd</span>
                                 </a>
                             </li>
                             <li class="menu-section">
